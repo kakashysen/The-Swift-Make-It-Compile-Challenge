@@ -37,7 +37,7 @@ array.map(raw)
 if case .C(let s?)? = array.first {}
 ```
 
-What does it take to get this code to compile? The solutions are included in the playground.
+What does it take to get this code to compile? The solutions to every solved challenge are included in the playground.
 
 ## Motivation
 
