@@ -21,6 +21,22 @@ Make it compile!
 - The given lines are not allowed to produce a warning (on default warning settings). However the code you append is allowed to produce warnings.
 - The code may or may not crash at runtime, it only has to compile
 
+## Example: Challenge #1
+
+On 31 August 2015, [the first challenge was posted on Twitter](https://twitter.com/Kametrixom/status/638294319644975104) with the following code that doesn't compile:
+
+```swift
+func raw<T: RawRepresentable>(t: T) -> T.RawValue {
+	return t.rawValue
+}
+
+let array : [E] = [.A(true), .B(1), .C("C")]
+
+array.map(raw)
+
+if case .C(let s?)? = array.first {}
+```
+
 ## Motivation
 
 Inspiration to create such a challenge came from [this Tweet by @Tricertops](https://twitter.com/Tricertops/status/637907916452941825 ):
