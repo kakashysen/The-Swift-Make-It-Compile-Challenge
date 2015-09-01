@@ -9,7 +9,7 @@ let returnN = getReturnN()
 
 func availableToIntCollection<C: CollectionType where C.Generator.Element == Int>(c: C) {}
 
-availableToIntCollection([1, 2, 3].lazy.map(returnN))
+availableToIntCollection([1, 2, 3].lazy.map(returnN))	// Use lazy([1, 2, 3]) instead before XCode 7 beta 6
 
 
 var a : Int { returnN (n: 3) }
