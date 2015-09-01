@@ -27,5 +27,5 @@ Syntax-highlighted:
 
 ----
 
-*This challenge is unsolved*
+Solution provided by [Pyry Jahkola](https://twitter.com/pyrtsa ) on 1 September 2015: [Gist Comment](https://gist.github.com/Kametrixom/8e9887defd210a737e72#gistcomment-1564070 )
 */
