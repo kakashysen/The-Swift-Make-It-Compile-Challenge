@@ -15,7 +15,7 @@ func doIt(inout s: D) {
 
 
 /*:
-[Tweet]()
+[Tweet](https://twitter.com/Kametrixom/status/639214444262916096 )
 
 Syntax-highlighted:
 ![Picture](Picture.png)
