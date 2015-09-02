@@ -85,3 +85,7 @@ Extended: [Pyry Jahkola](https://twitter.com/pyrtsa ): [Gist Comment](https://gi
 #### Challenge #3
 
 [Pyry Jahkola](https://twitter.com/pyrtsa ): [Gist Comment](https://gist.github.com/Kametrixom/8e9887defd210a737e72#gistcomment-1564070 )
+
+#### Challenge #4
+
+*unsolved*
