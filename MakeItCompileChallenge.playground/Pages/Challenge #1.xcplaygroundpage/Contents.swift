@@ -31,10 +31,9 @@ Syntax-highlighted:
 ![Picture](Picture.png)
 
 ----
+#### Solutions
 
 Solution provided by [Kostiantyn Koval](https://twitter.com/KostiaKoval ) on 31 August 2015: [Tweet](https://twitter.com/KostiaKoval/status/638298040172957696 )
-
-----
 
 Solution to the extended version provided by [Pyry Jahkola](https://twitter.com/pyrtsa ) on 31 August 2015: [Gist Comment](https://gist.github.com/Kametrixom/437a607e16eacf08e9c1#gistcomment-1563539 )
 

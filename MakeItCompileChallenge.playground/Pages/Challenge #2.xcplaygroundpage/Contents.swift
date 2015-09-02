@@ -17,6 +17,7 @@ Syntax-highlighted:
 ![Picture](Picture.png)
 
 ----
+#### Solution
 
 Solution provided by [Jessy Catterwaul](https://twitter.com/jessyMeow ) on 31 August 2015: [Gist comment](https://gist.github.com/Kametrixom/f6f818641432f02dbbdc#gistcomment-1563652 )
 

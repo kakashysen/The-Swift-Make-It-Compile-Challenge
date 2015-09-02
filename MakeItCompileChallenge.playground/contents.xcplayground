@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='osx' requires-full-environment='true' display-mode='raw'>
+<playground version='6.0' target-platform='osx' requires-full-environment='true' display-mode='rendered'>
     <pages>
         <page name='Introduction'/>
         <page name='Hall of Fame'/>
         <page name='Challenge #1'/>
         <page name='Challenge #2'/>
         <page name='Challenge #3'/>
+        <page name='Challenge #4'/>
     </pages>
 </playground>
