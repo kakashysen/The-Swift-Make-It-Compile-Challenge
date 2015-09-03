@@ -41,9 +41,9 @@ What does it take to get this code to compile? The solutions to every solved cha
 
 ## Motivation
 
-Inspiration to create such a challenge came from [this Tweet by @Tricertops](https://twitter.com/Tricertops/status/637907916452941825 ):
+Inspiration to create such a challenge came from [this Tweet by @Tricertops](https://twitter.com/Tricertops/status/637907916452941825):
 
-> [@Tricertops](https://twitter.com/Tricertops/ ): "Swift Quiz: The function takes optional closure. Is this trailing closure or condition body?"
+> [@Tricertops](https://twitter.com/Tricertops/): "Swift Quiz: The function takes optional closure. Is this trailing closure or condition body?"
 
 along with this code:
 
@@ -64,27 +64,27 @@ Can you figure out how `performOperationWithClosure` is exactly defined (He alre
 
 Good question! It works like this:
 
-Challenges are posted from my Twitter account [@Kametrixom](https://twitter.com/Tricertops/status/637907916452941825 ) where a link to the gist and/or this playground and the picture of the compiled code is included. This Playground file gets updated accordingly. Challenges are in a sequence, the next one may only be released when the previous one has been solved by someone. Of course if noone can solve it, I will release small hints with time.
+Challenges are posted from my Twitter account [@Kametrixom](https://twitter.com/Tricertops/status/637907916452941825) where a link to the gist and/or this playground and the picture of the compiled code is included. This Playground file gets updated accordingly. Challenges are in a sequence, the next one may only be released when the previous one has been solved by someone. Of course if noone can solve it, I will release small hints with time.
 
 Every challenge gets a new Playground page with the given lines that doesn't compile, plus a source file that doesn't contain anything. When someone finds the solution, it gets added to the source file *with all declarations private/internal* so that the Playground Page still doesn't compile and others can have a go at it. If you want to try out the other solution(s), just replace every `private` keyword in the solution with `public`. The person solving the challenge first gets acknowledged at the corresponding Playground Page, as well as in the **Hall of Fame**.
 
-You can provide solutions through [Gist](https://gist.github.com/Kametrixom ) or [Twitter](https://twitter.com/kametrixom ). I will verify the solution according to the rules above and update this Playground accordingly. When the challenge has been solven by someone, I will include my original solution in the sources.
+You can provide solutions through [Gist](https://gist.github.com/Kametrixom) or [Twitter](https://twitter.com/kametrixom). I will verify the solution according to the rules above and update this Playground accordingly. When the challenge has been solven by someone, I will include my original solution in the sources.
 
 # ✨✨ Hall of Fame ✨✨
 
 #### Challenge #1
 
-Normal: [Kostiantyn Koval](https://twitter.com/KostiaKoval ): [Tweet](https://twitter.com/KostiaKoval/status/638298040172957696 )
+Normal: [Kostiantyn Koval](https://twitter.com/KostiaKoval ): [Tweet](https://twitter.com/KostiaKoval/status/638298040172957696)
 
-Extended: [Pyry Jahkola](https://twitter.com/pyrtsa ): [Gist Comment](https://gist.github.com/Kametrixom/437a607e16eacf08e9c1#gistcomment-1563539 )
+Extended: [Pyry Jahkola](https://twitter.com/pyrtsa ): [Gist Comment](https://gist.github.com/Kametrixom/437a607e16eacf08e9c1#gistcomment-1563539)
 
 #### Challenge #2
 
-[Jessy Catterwaul](https://twitter.com/jessyMeow ): [Gist comment](https://gist.github.com/Kametrixom/f6f818641432f02dbbdc#gistcomment-1563652 )
+[Jessy Catterwaul](https://twitter.com/jessyMeow ): [Gist comment](https://gist.github.com/Kametrixom/f6f818641432f02dbbdc#gistcomment-1563652)
 
 #### Challenge #3
 
-[Pyry Jahkola](https://twitter.com/pyrtsa ): [Gist Comment](https://gist.github.com/Kametrixom/8e9887defd210a737e72#gistcomment-1564070 )
+[Pyry Jahkola](https://twitter.com/pyrtsa ): [Gist Comment](https://gist.github.com/Kametrixom/8e9887defd210a737e72#gistcomment-1564070)
 
 #### Challenge #4
 
