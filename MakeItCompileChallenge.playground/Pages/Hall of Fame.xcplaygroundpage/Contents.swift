@@ -21,7 +21,9 @@ Extended: [Pyry Jahkola](https://twitter.com/pyrtsa ): [Gist Comment](https://gi
 
 #### Challenge #4
 
-*unsolved*
+(99% solution) [Chris Goldsby](https://twitter.com/GoldsbyChris ): [Gist](https://gist.github.com/cgoldsby/b4f8a8ccf8550ffbd1a1 )
+
+*not fully solved*
 
 ----
 
