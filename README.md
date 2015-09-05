@@ -9,7 +9,7 @@ This is a Swift challenge by [@Kametrixom](https://twitter.com/kametrixom). It's
 - A few lines of Swift code in the newest version
 - An XCode syntax-highlighed (Midnight preset) picture of those lines
 
-### The Goal
+### The Goal 
 
 Make it compile!
 
