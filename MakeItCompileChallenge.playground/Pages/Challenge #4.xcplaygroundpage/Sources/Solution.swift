@@ -1,9 +1,5 @@
-//: 99% Solution provided by [Chris Goldsby](https://twitter.com/GoldsbyChris ) on 4 September 2015: [Gist](https://gist.github.com/cgoldsby/b4f8a8ccf8550ffbd1a1 )
-//: Only the syntax highlighting of `D` isn't matching ;)
-
+//: Solution provided by [Chris Goldsby](https://twitter.com/GoldsbyChris ) on 6 September 2015: [Gist](https://gist.github.com/cgoldsby/20fd0719a18954c8d58d )
 // XCode 7.0 beta 6 (7A192o)
-
-private typealias D = NonObjectiveCBase
 
 private func ~=(left: Any, right: Bool) -> BooleanType {
 	return true
@@ -13,12 +9,16 @@ private func +(left: Any, right: Any) -> String {
 	return ""
 }
 
-private protocol 🐢: class, BooleanType, ArrayLiteralConvertible {
+protocol Challenge4: class, BooleanType, ArrayLiteralConvertible {
+	
+	typealias D
 	
 	var `self` : () -> () { get set }
+	
+	func doIt(inout s: D)
 }
 
-private extension 🐢 {
+private extension Challenge4 where D == NonObjectiveCBase {
 	
 	typealias Element = Any
 	

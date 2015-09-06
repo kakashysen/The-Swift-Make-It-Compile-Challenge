@@ -34,6 +34,6 @@ Syntax-highlighted:
 
 99% Solution provided by [Chris Goldsby](https://twitter.com/GoldsbyChris ) on 4 September 2015: [Gist](https://gist.github.com/cgoldsby/b4f8a8ccf8550ffbd1a1 )
 
-*Not fully solved*
+Solution provided by [Chris Goldsby](https://twitter.com/GoldsbyChris ) on 6 September 2015: [Gist](https://gist.github.com/cgoldsby/20fd0719a18954c8d58d )
 
 */
