@@ -64,7 +64,7 @@ Can you figure out how `performOperationWithClosure` is exactly defined (He alre
 
 Good question! It works like this:
 
-Challenges are posted from my Twitter account [@Kametrixom](https://twitter.com/Tricertops/status/637907916452941825) where a link to the gist and/or this playground and the picture of the compiled code is included. This Playground file gets updated accordingly. Challenges are in a sequence, the next one may only be released when the previous one has been solved by someone. Of course if noone can solve it, I will release small hints with time.
+Challenges are posted from my Twitter account [@Kametrixom](https://twitter.com/kametrixom) where a link to the gist and/or this playground and the picture of the compiled code is included. This Playground file gets updated accordingly. Challenges are in a sequence, the next one may only be released when the previous one has been solved by someone. Of course if noone can solve it, I will release small hints with time.
 
 Every challenge gets a new Playground page with the given lines that doesn't compile, plus a source file that doesn't contain anything. When someone finds the solution, it gets added to the source file *with all declarations private/internal* so that the Playground Page still doesn't compile and others can have a go at it. If you want to try out the other solution(s), just replace every `private` keyword in the solution with `public`. The person solving the challenge first gets acknowledged at the corresponding Playground Page, as well as in the **Hall of Fame**.
 
